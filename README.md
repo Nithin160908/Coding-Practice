@@ -57,7 +57,11 @@ Food Portal is a Python-based food ordering application developed as part of my 
 
 ## 📸 Screenshots
 
-Screenshots of the application output will be added here to demonstrate the program in action.
+### Food Portal Output
+
+![Food Portal Screenshot 1](<exact filename of screenshot 1>)
+![Food Portal Screenshot 2](<exact filename of screenshot 2>)
+![Food Portal Screenshot 3](<exact filename of screenshot 3>)
 
 ## 📚 Learning Outcomes
 
